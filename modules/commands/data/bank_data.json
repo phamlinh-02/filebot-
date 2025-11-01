@@ -1,0 +1,3948 @@
+{
+    "61560526805196": {
+        "balance": null,
+        "debt": null,
+        "status": "active",
+        "loanTime": "2025-06-23T15:48:08.977Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "16/06/2025 20:03:13"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 17,
+                "date": "16/06/2025 20:03:37"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 20000000000,
+                "date": "16/06/2025 20:04:20"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000,
+                "date": "16/06/2025 20:05:44"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000,
+                "date": "16/06/2025 20:07:34"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2148524,
+                "date": "18/06/2025 22:02:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "18/06/2025 23:00:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 20000000,
+                "date": "18/06/2025 23:01:42"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -15148541,
+                "date": "23/06/2025 10:04:06"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 12042345020,
+                "date": "23/06/2025 22:40:04"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "23/06/2025 22:46:10"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "23/06/2025 22:48:08"
+            }
+        ],
+        "lastDepositReset": "2025-06-23T15:40:04.956Z",
+        "depositCount": 1
+    },
+    "61553463718479": {
+        "balance": 27000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 00:13:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1,
+                "date": "17/06/2025 00:44:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000,
+                "date": "17/06/2025 00:44:55"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10000000,
+                "totalDebt": 14800000,
+                "date": "17/06/2025 00:53:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "17/06/2025 00:54:11"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000,
+                "date": "17/06/2025 00:57:04"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 3000000,
+                "date": "17/06/2025 19:09:19"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000,
+                "date": "17/06/2025 19:29:06"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3000001,
+                "date": "19/06/2025 19:51:57"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 3000000,
+                "date": "19/06/2025 19:57:11"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 30000000,
+                "totalDebt": 44400000,
+                "date": "19/06/2025 19:57:27"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000,
+                "date": "19/06/2025 19:57:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 44400000,
+                "date": "19/06/2025 20:00:08"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -44400000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 20:00:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 13000000,
+                "date": "19/06/2025 20:14:48"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "22/06/2025 23:40:44"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 21000000,
+                "date": "22/06/2025 23:41:24"
+            }
+        ],
+        "lastDepositReset": "2025-06-22T16:41:24.818Z",
+        "depositCount": 1
+    },
+    "100070596682313": {
+        "balance": 99920201003000100,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 16:52:13"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 99999999999999,
+                "date": "17/06/2025 16:52:50"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000,
+                "date": "17/06/2025 16:53:06"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 17:37:08"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:37:46"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 17:51:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:53:40"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:03"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:35"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:42"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:51"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:55:57"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "17/06/2025 17:56:11"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 17:58:09"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 17:58:30"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 17:58:38"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 17:58:48"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 18:00:58"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 18:11:40"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 18:11:46"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 18:11:53"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 18:12:01"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:13:21"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:13:27"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:13:38"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:13:48"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:18"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "17/06/2025 18:14:33"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100,
+                "date": "17/06/2025 18:15:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000,
+                "date": "17/06/2025 21:24:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000,
+                "date": "18/06/2025 12:43:53"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "18/06/2025 12:44:01"
+            }
+        ],
+        "lastDepositReset": "2025-06-18T05:43:53.228Z",
+        "depositCount": 2
+    },
+    "61573167599247": {
+        "balance": 888894888888,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 17:50:28"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 3000000,
+                "date": "17/06/2025 17:50:53"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 888888888888,
+                "date": "17/06/2025 17:57:37"
+            }
+        ]
+    },
+    "100092387645990": {
+        "balance": 12081183202999008,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 17:51:52"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 90000000000000000,
+                "date": "17/06/2025 17:56:02"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "17/06/2025 17:56:16"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "17/06/2025 17:56:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "17/06/2025 17:57:54"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1,
+                "date": "17/06/2025 17:58:12"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999999999,
+                "date": "17/06/2025 18:10:58"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999999999999,
+                "date": "17/06/2025 18:11:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999999999999,
+                "date": "17/06/2025 18:11:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1999999999999999,
+                "date": "17/06/2025 18:11:56"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1999999999999999,
+                "date": "17/06/2025 18:12:20"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1999999999999999,
+                "date": "17/06/2025 18:12:25"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 19999999999999,
+                "date": "17/06/2025 18:13:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:00"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:13"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:22"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:39"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "17/06/2025 18:14:46"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000,
+                "date": "17/06/2025 21:24:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000,
+                "date": "18/06/2025 09:22:40"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000000,
+                "date": "18/06/2025 21:40:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000000,
+                "date": "19/06/2025 09:07:05"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000000000000,
+                "totalDebt": 1480000000000,
+                "date": "19/06/2025 09:29:45"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1480000000000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 09:29:56"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 90000000000000000,
+                "totalDebt": 133200000000000000,
+                "date": "19/06/2025 09:36:19"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -133200000000000000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 09:36:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000,
+                "date": "19/06/2025 10:26:48"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000000000000000,
+                "totalDebt": 1480000000000000,
+                "date": "19/06/2025 20:29:08"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1480000000000000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 20:29:24"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 25000910000000000,
+                "totalDebt": 37001346800000000,
+                "date": "19/06/2025 23:09:59"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -37001346800000000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 23:10:07"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000000000,
+                "date": "19/06/2025 23:10:37"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000000000000,
+                "date": "20/06/2025 17:48:12"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -80000000000000,
+                "date": "22/06/2025 10:53:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -700000000000000,
+                "date": "23/06/2025 09:18:04"
+            }
+        ],
+        "lastDepositReset": "2025-06-23T02:18:04.492Z",
+        "depositCount": 0
+    },
+    "61554037285677": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 18:13:02"
+            }
+        ]
+    },
+    "61570496100333": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "17/06/2025 19:07:28"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5,
+                "totalDebt": 7,
+                "date": "18/06/2025 22:13:27"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -7,
+                "remainingDebt": 0,
+                "date": "18/06/2025 22:14:19"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5000000,
+                "totalDebt": 7400000,
+                "date": "18/06/2025 22:14:49"
+            },
+            {
+                "type": "TRẢ NỢ",
+                "amount": -5000000,
+                "remainingDebt": 2400000,
+                "date": "18/06/2025 22:15:29"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 7000000,
+                "date": "18/06/2025 22:17:32"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -2400000,
+                "remainingDebt": 0,
+                "date": "18/06/2025 22:17:46"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4599998,
+                "date": "18/06/2025 22:18:55"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-06-18T15:17:32.107Z"
+    },
+    "100039373359770": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "18/06/2025 21:28:03"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-18T14:28:03.477Z"
+    },
+    "61556326374793": {
+        "balance": 1905940000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "18/06/2025 22:11:17"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1,
+                "totalDebt": 1,
+                "date": "18/06/2025 22:12:51"
+            },
+            {
+                "type": "TRẢ NỢ",
+                "amount": -1,
+                "remainingDebt": 0,
+                "date": "18/06/2025 22:14:45"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000000,
+                "date": "18/06/2025 22:18:11"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 200000000,
+                "totalDebt": 296000000,
+                "date": "18/06/2025 23:04:07"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -296000000,
+                "remainingDebt": 0,
+                "date": "18/06/2025 23:05:32"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 2000000,
+                "totalDebt": 2960000,
+                "date": "19/06/2025 09:27:25"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -2960000,
+                "remainingDebt": 0,
+                "date": "19/06/2025 09:27:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000,
+                "date": "19/06/2025 10:27:52"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-19T03:27:52.444Z"
+    },
+    "61571090267278": {
+        "balance": 1e+103,
+        "debt": 1.4799999999999998e+104,
+        "status": "active",
+        "loanTime": "2025-06-18T15:11:59.810Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "18/06/2025 22:11:25"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+104,
+                "totalDebt": 1.4799999999999998e+104,
+                "date": "18/06/2025 22:11:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -90,
+                "date": "18/06/2025 22:15:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9e+103,
+                "date": "18/06/2025 22:18:04"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-18T15:11:25.771Z"
+    },
+    "100014885148374": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "19/06/2025 20:11:16"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-19T13:11:16.994Z"
+    },
+    "100063757576226": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "22/06/2025 19:15:31"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-22T12:15:31.293Z"
+    },
+    "61564869487806": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "23/06/2025 11:49:16"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-23T04:49:16.227Z"
+    },
+    "100062742663010": {
+        "balance": 1000000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "23/06/2025 13:47:47"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "25/06/2025 02:11:50"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 6000000,
+                "date": "25/06/2025 02:22:14"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 600000000,
+                "date": "25/06/2025 02:37:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -50000000,
+                "date": "25/06/2025 15:18:17"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -50000000,
+                "date": "25/06/2025 16:07:42"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 500000000,
+                "date": "25/06/2025 16:37:12"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -11000000,
+                "date": "25/06/2025 16:37:54"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-06-25T09:37:12.563Z"
+    },
+    "61554821889763": {
+        "balance": null,
+        "debt": null,
+        "status": "active",
+        "loanTime": "2025-06-23T15:45:51.444Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "23/06/2025 22:41:16"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "23/06/2025 22:42:27"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "23/06/2025 22:44:55"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "23/06/2025 22:45:51"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-06-23T15:44:55.234Z"
+    },
+    "61558964805774": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "24/06/2025 18:43:42"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-24T11:43:42.977Z"
+    },
+    "61553670211995": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "24/06/2025 18:43:46"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-06-24T11:43:46.740Z"
+    },
+    "61554620715942": {
+        "balance": 3000000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "29/06/2025 03:50:28"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999,
+                "date": "30/06/2025 15:04:39"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 9997003299,
+                "date": "20/07/2025 19:53:34"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1999999999999998,
+                "date": "21/07/2025 00:21:27"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2000007001003296,
+                "date": "21/07/2025 02:25:14"
+            }
+        ],
+        "depositCount": 2,
+        "lastDepositReset": "2025-07-20T12:53:34.929Z"
+    },
+    "61550562576256": {
+        "balance": 1e+23,
+        "debt": 1.48e+23,
+        "status": "active",
+        "loanTime": "2025-07-21T07:07:04.886Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "30/06/2025 15:20:29"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000,
+                "totalDebt": 1480,
+                "date": "21/07/2025 14:01:37"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1480,
+                "remainingDebt": 0,
+                "date": "21/07/2025 14:06:29"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+23,
+                "totalDebt": 1.48e+23,
+                "date": "21/07/2025 14:07:04"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-07-21T07:01:37.626Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-07-21T07:07:04.886Z"
+    },
+    "100076891088204": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "19/07/2025 15:51:22"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-07-19T08:51:22.378Z"
+    },
+    "100090661271921": {
+        "balance": 2996200,
+        "debt": 1480,
+        "status": "active",
+        "loanTime": "2025-07-21T02:32:46.298Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "19/07/2025 23:09:04"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 2,
+                "totalDebt": 2,
+                "date": "20/07/2025 23:39:48"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -2,
+                "remainingDebt": 0,
+                "date": "20/07/2025 23:46:59"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10000,
+                "totalDebt": 14800,
+                "date": "20/07/2025 23:47:20"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -14800,
+                "remainingDebt": 0,
+                "date": "20/07/2025 23:47:42"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000,
+                "totalDebt": 1480,
+                "date": "21/07/2025 09:32:46"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-07-20T16:39:48.207Z",
+        "loanCount": null
+    },
+    "100075166354195": {
+        "balance": 321000102554646,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "20/07/2025 19:43:56"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 11000000,
+                "date": "20/07/2025 19:57:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5000000,
+                "date": "20/07/2025 19:58:31"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5000000,
+                "date": "20/07/2025 20:00:00"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1,
+                "date": "20/07/2025 20:02:53"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -999999,
+                "date": "20/07/2025 20:03:11"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "21/07/2025 01:52:35"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 5000000,
+                "date": "21/07/2025 01:58:42"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "21/07/2025 01:59:00"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 50000000,
+                "date": "21/07/2025 01:59:12"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100,
+                "date": "21/07/2025 10:07:00"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000,
+                "date": "21/07/2025 10:07:45"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 50000000,
+                "date": "21/07/2025 10:08:53"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 50000000,
+                "date": "21/07/2025 15:20:19"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -62000000,
+                "date": "22/07/2025 15:52:11"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000,
+                "date": "24/07/2025 01:29:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000,
+                "date": "24/07/2025 01:29:17"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000,
+                "date": "24/07/2025 01:29:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100,
+                "date": "24/07/2025 01:29:47"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 500000000000,
+                "date": "24/07/2025 01:30:10"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "24/07/2025 18:23:40"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000,
+                "date": "24/07/2025 18:24:12"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 309487905031248,
+                "date": "24/07/2025 18:24:47"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1472965,
+                "date": "26/07/2025 00:48:50"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1137858,
+                "date": "26/07/2025 23:12:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -8000000,
+                "date": "29/07/2025 00:16:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "29/07/2025 00:37:00"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 12912375,
+                "date": "29/07/2025 00:37:26"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-07-28T17:37:26.350Z"
+    },
+    "100068581595066": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-07-25T17:42:04.782Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "20/07/2025 19:50:50"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10,
+                "totalDebt": 14,
+                "date": "20/07/2025 19:59:50"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -14,
+                "remainingDebt": 0,
+                "date": "20/07/2025 20:00:26"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10000000,
+                "totalDebt": 14800000,
+                "date": "20/07/2025 20:00:39"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9000000,
+                "date": "20/07/2025 20:01:36"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 16576000,
+                "date": "21/07/2025 02:11:15"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -18565120,
+                "remainingDebt": 0,
+                "date": "21/07/2025 02:11:28"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000,
+                "totalDebt": 148000000000,
+                "date": "21/07/2025 02:31:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 3000000,
+                "date": "21/07/2025 02:33:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000,
+                "date": "21/07/2025 02:33:35"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 148000000000,
+                "date": "21/07/2025 02:43:16"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -148000000000,
+                "remainingDebt": 0,
+                "date": "21/07/2025 02:43:27"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2000000,
+                "date": "21/07/2025 10:48:30"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000000,
+                "totalDebt": 148000000000000,
+                "date": "23/07/2025 17:45:43"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -20000000000,
+                "date": "23/07/2025 17:48:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -99980000000000,
+                "date": "23/07/2025 17:49:56"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 149979001739377,
+                "date": "23/07/2025 17:52:45"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -148000000000000,
+                "remainingDebt": 0,
+                "date": "23/07/2025 17:52:55"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9004750253,
+                "date": "24/07/2025 00:22:28"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -70000000000,
+                "date": "24/07/2025 00:26:43"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000000,
+                "date": "24/07/2025 01:07:00"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -400000000000,
+                "date": "24/07/2025 01:08:08"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000000000000,
+                "totalDebt": 148000000000000000000,
+                "date": "24/07/2025 01:20:25"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000000000000,
+                "date": "24/07/2025 01:21:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -499000000000,
+                "date": "24/07/2025 10:45:03"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -999997952,
+                "date": "26/07/2025 00:42:04"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-07-25T17:42:04.782Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-07-25T17:42:04.782Z",
+        "loanCooldown": null
+    },
+    "100073952169985": {
+        "balance": 5500000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "21/07/2025 00:48:07"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000,
+                "date": "21/07/2025 00:53:14"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "21/07/2025 01:06:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -500000,
+                "date": "21/07/2025 01:26:47"
+            }
+        ],
+        "depositCount": 2,
+        "lastDepositReset": "2025-07-20T17:53:14.115Z"
+    },
+    "100044231616586": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-07-25T10:40:21.043Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "21/07/2025 01:52:06"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10000000,
+                "totalDebt": 14800000,
+                "date": "21/07/2025 02:02:16"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "21/07/2025 02:03:07"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 15000000,
+                "date": "21/07/2025 02:09:35"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -14800000,
+                "remainingDebt": 0,
+                "date": "21/07/2025 02:09:42"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000000000,
+                "totalDebt": 1480000000,
+                "date": "21/07/2025 02:09:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "21/07/2025 02:10:26"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 25,
+                "date": "21/07/2025 02:34:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 25000000000,
+                "date": "21/07/2025 02:34:38"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1480000000,
+                "remainingDebt": 0,
+                "date": "21/07/2025 02:34:47"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5000000000000000,
+                "totalDebt": 7400000000000000,
+                "date": "24/07/2025 01:13:22"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5000000000000000,
+                "date": "24/07/2025 01:14:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 75000000000000,
+                "date": "24/07/2025 01:38:14"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 8000000000000000,
+                "date": "24/07/2025 01:38:40"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -7400000000000000,
+                "remainingDebt": 0,
+                "date": "24/07/2025 01:38:47"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5e+31,
+                "totalDebt": 7.4000000000000005e+31,
+                "date": "24/07/2025 01:38:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4.9e+31,
+                "date": "24/07/2025 01:40:22"
+            },
+            {
+                "type": "TRẢ NỢ",
+                "amount": -1e+28,
+                "remainingDebt": 8.435e+31,
+                "date": "24/07/2025 09:17:52"
+            },
+            {
+                "type": "TRẢ NỢ",
+                "amount": -9.6e+29,
+                "remainingDebt": 9.5199e+31,
+                "date": "24/07/2025 09:18:45"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3.000000000000309e+28,
+                "date": "25/07/2025 17:40:21"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-07-25T10:40:21.043Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-07-25T10:40:21.043Z",
+        "loanCooldown": null
+    },
+    "100043374969443": {
+        "balance": 5000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-07-25T10:40:33.840Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "21/07/2025 14:56:04"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 5000000000,
+                "date": "23/07/2025 18:25:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000000,
+                "date": "24/07/2025 00:29:08"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000,
+                "date": "24/07/2025 01:36:14"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5e+39,
+                "totalDebt": 7.4e+39,
+                "date": "24/07/2025 07:45:48"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2e+39,
+                "date": "24/07/2025 07:47:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2e+39,
+                "date": "24/07/2025 08:03:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+27,
+                "date": "24/07/2025 08:07:19"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -8.888888888888889e+25,
+                "date": "24/07/2025 13:15:38"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9.77779999989113e+37,
+                "date": "24/07/2025 18:16:15"
+            },
+            {
+                "type": "TRẢ NỢ",
+                "amount": -9.02222e+38,
+                "remainingDebt": 1.0819378000000001e+40,
+                "date": "24/07/2025 18:33:49"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "24/07/2025 18:34:31"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "24/07/2025 18:40:45"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "24/07/2025 18:41:07"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "24/07/2025 18:41:24"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000,
+                "date": "24/07/2025 18:42:14"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -30020000000000000,
+                "date": "25/07/2025 17:40:33"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 5000000,
+                "date": "26/07/2025 00:41:24"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-07-25T17:41:24.599Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-07-25T10:40:33.840Z",
+        "loanCooldown": null
+    },
+    "100031403991207": {
+        "balance": 10499990,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "09/08/2025 17:43:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000,
+                "date": "09/08/2025 17:44:13"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1300000,
+                "date": "09/08/2025 17:45:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000,
+                "date": "09/08/2025 18:03:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1100000,
+                "date": "10/08/2025 20:03:54"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10,
+                "date": "10/08/2025 20:04:11"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-10T13:03:54.863Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "100091333905317": {
+        "balance": 7001001,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "27/08/2025 00:09:25"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1,
+                "date": "27/08/2025 07:43:39"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000,
+                "date": "27/08/2025 07:44:01"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000,
+                "date": "27/08/2025 07:44:30"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000,
+                "date": "27/08/2025 09:43:37"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "27/08/2025 09:58:36"
+            }
+        ],
+        "depositCount": 5,
+        "lastDepositReset": "2025-08-27T00:43:39.658Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "61578338759902": {
+        "balance": 5000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "27/08/2025 00:11:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "27/08/2025 10:01:55"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-08-27T03:01:55.766Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "61572732222418": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "27/08/2025 10:35:17"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1,
+                "date": "27/08/2025 10:36:43"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1,
+                "totalDebt": 1,
+                "date": "27/08/2025 10:37:49"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1,
+                "date": "27/08/2025 10:43:46"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1,
+                "remainingDebt": 0,
+                "date": "27/08/2025 10:44:27"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1,
+                "totalDebt": 1,
+                "date": "27/08/2025 13:09:43"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -1,
+                "remainingDebt": 0,
+                "date": "27/08/2025 13:10:29"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-08-27T03:36:43.725Z",
+        "loanCount": 2,
+        "lastLoanReset": "2025-08-27T03:37:49.855Z",
+        "loanCooldown": "2025-08-27T06:10:29.366Z"
+    },
+    "61577468505741": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "27/08/2025 13:07:53"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-27T06:07:53.753Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "61576843661215": {
+        "balance": null,
+        "debt": null,
+        "status": "active",
+        "loanTime": "2025-08-30T05:48:54.638Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-08-30T05:48:19.529Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 00:58:45"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 10000000,
+                "totalDebt": 14800000,
+                "date": "28/08/2025 01:02:54"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "28/08/2025 01:10:46"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 15000000,
+                "date": "28/08/2025 01:11:51"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -14800000,
+                "remainingDebt": 0,
+                "date": "28/08/2025 01:12:00"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 4000000,
+                "date": "28/08/2025 01:23:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -200000,
+                "date": "28/08/2025 01:23:39"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1400000,
+                "date": "28/08/2025 01:24:12"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000,
+                "date": "28/08/2025 02:01:59"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000000000,
+                "totalDebt": 1480000000,
+                "date": "28/08/2025 13:35:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "28/08/2025 13:37:41"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000,
+                "date": "28/08/2025 13:43:28"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4000000,
+                "date": "28/08/2025 21:08:30"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -400000,
+                "date": "29/08/2025 00:59:54"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3000000,
+                "date": "30/08/2025 12:48:19"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "30/08/2025 12:48:54"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:48:19.529Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-30T05:48:54.638Z",
+        "loanCooldown": null
+    },
+    "61576790368585": {
+        "balance": 9e+249,
+        "debt": 1.48e+250,
+        "status": "active",
+        "loanTime": "2025-08-30T05:38:58.164Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 13:41:09"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 998000000,
+                "date": "28/08/2025 13:41:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -900000000,
+                "date": "29/08/2025 09:24:06"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+250,
+                "totalDebt": 1.48e+250,
+                "date": "30/08/2025 12:38:58"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+249,
+                "date": "30/08/2025 12:39:27"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:38:58.164Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-30T05:38:58.164Z",
+        "loanCooldown": null
+    },
+    "61575649180658": {
+        "balance": 1.0000002837374744e+135,
+        "debt": 1.4800004199314622e+135,
+        "status": "active",
+        "loanTime": "2025-08-30T05:17:47.377Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-08-30T05:17:21.617Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 13:43:52"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 2.937473902010147e+73,
+                "totalDebt": 4.347461374975018e+73,
+                "date": "28/08/2025 13:44:04"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9.283747373929102e+67,
+                "date": "28/08/2025 13:44:44"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "29/08/2025 02:05:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "29/08/2025 09:10:01"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000000,
+                "date": "29/08/2025 10:19:36"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -2.9374646182627734e+73,
+                "date": "30/08/2025 12:17:21"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1.0000002837374744e+135,
+                "totalDebt": 1.4800004199314622e+135,
+                "date": "30/08/2025 12:17:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0927484020101938e+32,
+                "date": "30/08/2025 12:18:07"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:17:21.617Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-30T05:17:47.377Z",
+        "loanCooldown": null
+    },
+    "61566574186716": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-13T16:11:21.802Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 21:26:24"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 300000000,
+                "totalDebt": 444000000,
+                "date": "28/08/2025 21:26:36"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -300000000,
+                "date": "28/08/2025 21:29:19"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3000000,
+                "date": "30/08/2025 12:50:31"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1.0000000002002221e+64,
+                "totalDebt": 1.4800000002963287e+64,
+                "date": "30/08/2025 12:51:19"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1.0000000002002221e+64,
+                "date": "01/09/2025 19:59:01"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1010101902010101000,
+                "totalDebt": 1494950814974949400,
+                "date": "01/09/2025 21:32:08"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10101019023000000,
+                "date": "02/09/2025 10:58:01"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1000000882987100900,
+                "date": "13/09/2025 23:11:21"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-13T16:11:21.802Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-09-13T16:11:21.802Z",
+        "loanCooldown": null
+    },
+    "61576906804575": {
+        "balance": 3000000,
+        "debt": 44400000000,
+        "status": "active",
+        "loanTime": "2025-08-28T14:34:09.804Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 21:33:58"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 30000000000,
+                "totalDebt": 44400000000,
+                "date": "28/08/2025 21:34:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000000,
+                "date": "28/08/2025 21:34:46"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-28T14:33:58.382Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-28T14:34:09.804Z",
+        "loanCooldown": null
+    },
+    "61574930353177": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-08-31T02:48:10.319Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 21:34:09"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 99999999999999,
+                "totalDebt": 147999999999998,
+                "date": "28/08/2025 21:34:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -99999999999999,
+                "date": "28/08/2025 21:34:41"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3000000,
+                "date": "31/08/2025 09:48:10"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-31T02:48:10.319Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-08-31T02:48:10.319Z",
+        "loanCooldown": null
+    },
+    "61571111522369": {
+        "balance": 8.214196523491778e+103,
+        "debt": 2.2112876925572472e+107,
+        "status": "active",
+        "loanTime": "2025-08-30T05:49:58.631Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-08-31T04:16:42.137Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 22:14:38"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 30000000000,
+                "totalDebt": 44400000000,
+                "date": "28/08/2025 22:14:45"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000,
+                "date": "28/08/2025 22:15:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -26000000000,
+                "date": "28/08/2025 22:15:58"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -970000000,
+                "date": "28/08/2025 22:16:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30,
+                "date": "29/08/2025 01:17:38"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -29999970,
+                "date": "29/08/2025 01:18:13"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 19000000000,
+                "date": "29/08/2025 10:47:37"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "29/08/2025 10:50:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -18000000000,
+                "date": "29/08/2025 10:50:56"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 89000000000,
+                "date": "29/08/2025 11:15:54"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 70000000000,
+                "date": "29/08/2025 11:19:31"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -60000000000,
+                "date": "29/08/2025 16:04:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -99000000000,
+                "date": "29/08/2025 16:05:08"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 297000000000,
+                "date": "29/08/2025 16:07:00"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000000,
+                "date": "29/08/2025 17:13:55"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -60000000000,
+                "date": "29/08/2025 17:16:38"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000,
+                "date": "29/08/2025 17:17:00"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -107003000000,
+                "date": "30/08/2025 12:49:24"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+105,
+                "totalDebt": 1.48e+105,
+                "date": "30/08/2025 12:49:58"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+57,
+                "date": "31/08/2025 09:41:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+74,
+                "date": "31/08/2025 09:41:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+36,
+                "date": "31/08/2025 10:20:38"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+102,
+                "date": "31/08/2025 10:21:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9.98e+103,
+                "date": "31/08/2025 10:22:22"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:13:43"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:13:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:14:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:14:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:15:01"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:15:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:15:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841394e+104,
+                "date": "31/08/2025 11:15:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0213097770841395e+100,
+                "date": "31/08/2025 11:16:42"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-31T02:41:15.838Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-30T05:49:58.631Z",
+        "loanCooldown": null
+    },
+    "61577393807674": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T13:36:35.758Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "28/08/2025 22:19:07"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 30000000000,
+                "totalDebt": 44400000000,
+                "date": "28/08/2025 22:20:27"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000000,
+                "date": "28/08/2025 22:20:55"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 59978000000,
+                "date": "28/08/2025 22:22:04"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -44400000000,
+                "remainingDebt": 0,
+                "date": "28/08/2025 22:22:13"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "28/08/2025 22:22:45"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "28/08/2025 22:23:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000,
+                "date": "28/08/2025 22:28:23"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 6000000000,
+                "date": "28/08/2025 22:28:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000,
+                "date": "28/08/2025 22:30:53"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 9,
+                "date": "28/08/2025 22:36:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 38000000000,
+                "date": "28/08/2025 22:41:18"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000,
+                "date": "28/08/2025 22:41:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -20000000000,
+                "date": "28/08/2025 22:42:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -161000000,
+                "date": "28/08/2025 22:44:30"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9,
+                "date": "28/08/2025 22:44:38"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -40000000,
+                "date": "28/08/2025 22:51:40"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -30000000,
+                "date": "29/08/2025 00:33:06"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100,
+                "date": "29/08/2025 00:44:52"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2000000,
+                "date": "29/08/2025 00:53:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000,
+                "date": "29/08/2025 01:13:29"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "29/08/2025 01:16:06"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000,
+                "date": "29/08/2025 01:18:08"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5000000,
+                "date": "29/08/2025 01:19:25"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000,
+                "date": "29/08/2025 01:53:00"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "29/08/2025 01:58:54"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000,
+                "date": "29/08/2025 02:05:17"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000,
+                "date": "29/08/2025 02:18:48"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "29/08/2025 10:31:04"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 250000000,
+                "date": "29/08/2025 10:32:57"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000,
+                "date": "29/08/2025 10:42:32"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000,
+                "date": "29/08/2025 10:43:08"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 110821390386,
+                "date": "29/08/2025 10:44:17"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1,
+                "date": "29/08/2025 10:44:44"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1,
+                "date": "29/08/2025 10:44:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "29/08/2025 10:45:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000000,
+                "date": "29/08/2025 10:45:57"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 13000000000,
+                "date": "29/08/2025 10:53:07"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -40000000000,
+                "date": "29/08/2025 10:55:13"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2,
+                "date": "29/08/2025 10:59:30"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2061390482,
+                "date": "29/08/2025 10:59:46"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5000000000,
+                "date": "29/08/2025 11:01:37"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -50000000000,
+                "date": "29/08/2025 11:12:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -40000000000,
+                "date": "29/08/2025 11:17:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4500000000,
+                "date": "29/08/2025 11:30:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100,
+                "date": "29/08/2025 19:59:43"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 300000000000,
+                "totalDebt": 444000000000,
+                "date": "30/08/2025 02:33:41"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -300000000000,
+                "date": "30/08/2025 02:33:54"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 600000000000,
+                "date": "30/08/2025 02:34:27"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -444000000000,
+                "remainingDebt": 0,
+                "date": "30/08/2025 02:34:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -156000000000,
+                "date": "30/08/2025 02:37:23"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 3000000000000,
+                "totalDebt": 4440000000000,
+                "date": "30/08/2025 12:04:29"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3000000000000,
+                "date": "30/08/2025 12:04:39"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000000,
+                "date": "30/08/2025 12:45:42"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -4440000000000,
+                "remainingDebt": 0,
+                "date": "30/08/2025 12:45:47"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "30/08/2025 12:47:46"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000000000,
+                "totalDebt": 148000000000000000,
+                "date": "17/09/2025 17:47:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000000000,
+                "date": "17/09/2025 17:47:23"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000000000000,
+                "date": "17/09/2025 17:47:45"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -91085560499999900,
+                "date": "26/09/2025 20:36:35"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T13:36:35.758Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-09-26T13:36:35.758Z",
+        "loanCooldown": null
+    },
+    "100042133635571": {
+        "balance": 291553000035,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "29/08/2025 02:05:50"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 50000000,
+                "date": "29/08/2025 02:26:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 500000000,
+                "date": "29/08/2025 10:41:37"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 2000000000,
+                "date": "29/08/2025 10:43:38"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1,
+                "date": "29/08/2025 10:45:07"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 3,
+                "date": "29/08/2025 11:09:03"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 31,
+                "date": "29/08/2025 15:37:22"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 31000000000,
+                "date": "29/08/2025 15:37:36"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "30/08/2025 12:08:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000000000,
+                "date": "30/08/2025 12:09:16"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 500000000000,
+                "totalDebt": 740000000000,
+                "date": "30/08/2025 12:13:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -500000000000,
+                "date": "30/08/2025 12:16:49"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000,
+                "date": "30/08/2025 12:20:43"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -740000000000,
+                "remainingDebt": 0,
+                "date": "30/08/2025 12:21:34"
+            }
+        ],
+        "depositCount": 1,
+        "lastDepositReset": "2025-08-30T05:20:43.489Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-08-30T05:13:51.323Z",
+        "loanCooldown": null
+    },
+    "61558391527512": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T13:06:47.750Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "29/08/2025 09:29:11"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1000000000,
+                "totalDebt": 1480000000,
+                "date": "30/08/2025 12:41:41"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1003000000,
+                "date": "26/09/2025 20:06:47"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T13:06:47.750Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-09-26T13:06:47.750Z",
+        "loanCooldown": null
+    },
+    "61573446075628": {
+        "balance": 3.2948229469409377e+181,
+        "debt": 5.912749767297453e+184,
+        "status": "active",
+        "loanTime": "2025-08-30T11:04:40.098Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-08-31T03:22:40.302Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "29/08/2025 19:58:43"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000,
+                "totalDebt": 148000000000,
+                "date": "29/08/2025 19:59:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000000,
+                "date": "29/08/2025 20:00:16"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 210160000000,
+                "date": "30/08/2025 17:55:41"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100,
+                "date": "30/08/2025 17:58:37"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 99999999900,
+                "date": "30/08/2025 18:00:27"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000,
+                "date": "30/08/2025 18:03:14"
+            },
+            {
+                "type": "TRẢ HẾT NỢ",
+                "amount": -891098844364,
+                "remainingDebt": 0,
+                "date": "30/08/2025 18:03:23"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -416064155636,
+                "date": "30/08/2025 18:03:52"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+183,
+                "totalDebt": 1.48e+183,
+                "date": "30/08/2025 18:04:40"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9.97e+31,
+                "date": "30/08/2025 18:15:05"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+32,
+                "date": "30/08/2025 18:15:23"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:15:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:15:42"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:15:50"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:15:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:16:04"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+38,
+                "date": "30/08/2025 18:16:11"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+44,
+                "date": "30/08/2025 18:16:16"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+44,
+                "date": "30/08/2025 18:16:25"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+44,
+                "date": "30/08/2025 18:16:31"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+44,
+                "date": "30/08/2025 18:16:41"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+51,
+                "date": "30/08/2025 18:16:48"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:16:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1,
+                "date": "30/08/2025 18:17:25"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:17:37"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:17:42"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:17:50"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:17:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+69,
+                "date": "30/08/2025 18:18:06"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:18:20"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:18:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:18:53"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:19:01"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:19:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+123,
+                "date": "30/08/2025 18:19:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+122,
+                "date": "30/08/2025 18:19:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+135,
+                "date": "30/08/2025 18:19:26"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:19:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:19:40"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:19:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:19:55"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:00"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:08"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:14"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:22"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:28"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:36"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+145,
+                "date": "30/08/2025 18:20:45"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+173,
+                "date": "30/08/2025 18:20:59"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+155,
+                "date": "30/08/2025 18:21:11"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+173,
+                "date": "30/08/2025 18:23:52"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+173,
+                "date": "30/08/2025 18:24:01"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:24:22"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+176,
+                "date": "30/08/2025 18:24:30"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:24:36"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:24:41"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+178,
+                "date": "30/08/2025 18:24:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+181,
+                "date": "30/08/2025 18:25:02"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:25:10"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+180,
+                "date": "30/08/2025 18:25:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+182,
+                "date": "30/08/2025 18:25:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:25:30"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+180,
+                "date": "30/08/2025 18:25:37"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+182,
+                "date": "30/08/2025 18:25:45"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+182,
+                "date": "30/08/2025 18:25:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+182,
+                "date": "30/08/2025 18:25:58"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+182,
+                "date": "30/08/2025 18:26:06"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4e+182,
+                "date": "30/08/2025 18:26:18"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+179,
+                "date": "30/08/2025 18:26:26"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+181,
+                "date": "30/08/2025 18:26:41"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+180,
+                "date": "30/08/2025 18:27:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -7.6e+180,
+                "date": "30/08/2025 18:27:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+156,
+                "date": "30/08/2025 20:52:58"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+133,
+                "date": "30/08/2025 20:54:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+138,
+                "date": "31/08/2025 10:17:47"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+175,
+                "date": "31/08/2025 10:18:55"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+176,
+                "date": "31/08/2025 10:19:02"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+176,
+                "date": "31/08/2025 10:20:10"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000017e+179,
+                "date": "31/08/2025 10:20:19"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+176,
+                "date": "31/08/2025 10:21:21"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000019e+178,
+                "date": "31/08/2025 10:21:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+180,
+                "date": "31/08/2025 10:21:43"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+180,
+                "date": "31/08/2025 10:21:53"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000017e+179,
+                "date": "31/08/2025 10:22:09"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+180,
+                "date": "31/08/2025 10:22:18"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+180,
+                "date": "31/08/2025 10:22:32"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -6.878989970000018e+180,
+                "date": "31/08/2025 10:22:40"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-31T03:17:47.078Z",
+        "loanCount": 0,
+        "lastLoanReset": "2025-08-30T13:52:58.357Z",
+        "loanCooldown": null
+    },
+    "61577368093352": {
+        "balance": 7.777777777777777e+134,
+        "debt": 1.151111111111111e+135,
+        "status": "active",
+        "loanTime": "2025-09-08T20:09:46.251Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-08T20:09:24.980Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "30/08/2025 12:41:15"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+246,
+                "totalDebt": 1.48e+246,
+                "date": "30/08/2025 12:45:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5.9e+81,
+                "date": "30/08/2025 12:46:46"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1e+246,
+                "date": "01/09/2025 21:31:50"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 5.292292929292993e+101,
+                "totalDebt": 7.83259353535363e+101,
+                "date": "05/09/2025 02:35:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9.292882292929293e+40,
+                "date": "05/09/2025 02:37:04"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -5.292292929292993e+101,
+                "date": "09/09/2025 03:09:24"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 7.777777777777777e+134,
+                "totalDebt": 1.151111111111111e+135,
+                "date": "09/09/2025 03:09:46"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-08T20:09:24.980Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-08T20:09:46.251Z",
+        "loanCooldown": null
+    },
+    "61578864890020": {
+        "balance": null,
+        "debt": null,
+        "status": "active",
+        "loanTime": "2025-08-30T05:47:25.116Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "30/08/2025 12:45:06"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "30/08/2025 12:45:16"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "30/08/2025 12:47:25"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:45:06.607Z",
+        "loanCount": 2,
+        "lastLoanReset": "2025-08-30T05:45:16.420Z",
+        "loanCooldown": null
+    },
+    "100094294377111": {
+        "balance": 9000000000000000,
+        "debt": 13320000000000000,
+        "status": "active",
+        "loanTime": "2025-08-30T05:49:18.636Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "30/08/2025 12:48:28"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "30/08/2025 12:48:36"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 9000000000000000,
+                "totalDebt": 13320000000000000,
+                "date": "30/08/2025 12:49:18"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:48:28.350Z",
+        "loanCount": 2,
+        "lastLoanReset": "2025-08-30T05:48:36.311Z",
+        "loanCooldown": null
+    },
+    "100055283192213": {
+        "balance": 3000000,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "30/08/2025 12:48:38"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-08-30T05:48:38.468Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "61566568304677": {
+        "balance": 1e+55,
+        "debt": 1.48e+55,
+        "status": "active",
+        "loanTime": "2025-09-25T14:35:39.522Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-20T14:53:31.830Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "31/08/2025 09:49:37"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000,
+                "date": "31/08/2025 10:00:11"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 1000000000000,
+                "date": "31/08/2025 10:00:42"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1100000000000,
+                "date": "31/08/2025 10:04:15"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+24,
+                "totalDebt": 1.48e+24,
+                "date": "31/08/2025 11:13:50"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1e+24,
+                "date": "20/09/2025 21:53:31"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+55,
+                "totalDebt": 1.48e+55,
+                "date": "25/09/2025 21:35:39"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-25T14:35:39.522Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-25T14:35:39.522Z",
+        "loanCooldown": null
+    },
+    "61559876197736": {
+        "balance": 1.8268455363726297e+44,
+        "debt": 3.0041459931461018e+44,
+        "status": "active",
+        "loanTime": "2025-09-01T14:20:01.229Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "01/09/2025 21:19:51"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 2.029828373747366e+44,
+                "totalDebt": 3.0041459931461018e+44,
+                "date": "01/09/2025 21:20:01"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2.0298283737473662e+43,
+                "date": "01/09/2025 21:21:20"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-01T14:19:51.495Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-01T14:20:01.229Z",
+        "loanCooldown": null
+    },
+    "61573218171453": {
+        "balance": 1e+59,
+        "debt": 1.48e+59,
+        "status": "active",
+        "loanTime": "2025-09-02T01:32:42.943Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "02/09/2025 08:32:21"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+59,
+                "totalDebt": 1.48e+59,
+                "date": "02/09/2025 08:32:42"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-02T01:32:21.559Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-02T01:32:42.943Z",
+        "loanCooldown": null
+    },
+    "100088249876697": {
+        "balance": 1e+62,
+        "debt": 1.4800000000000002e+62,
+        "status": "active",
+        "loanTime": "2025-09-26T10:10:37.381Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T10:10:06.782Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "09/09/2025 06:18:07"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 100000000000000000000,
+                "totalDebt": 148000000000000000000,
+                "date": "09/09/2025 06:18:49"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -100000000000003000000,
+                "date": "26/09/2025 17:10:06"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+62,
+                "totalDebt": 1.4800000000000002e+62,
+                "date": "26/09/2025 17:10:37"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T10:10:06.782Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T10:10:37.381Z",
+        "loanCooldown": null
+    },
+    "61576189423652": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-16T13:52:58.967Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "16/09/2025 19:18:25"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 999999,
+                "totalDebt": 1479998,
+                "date": "16/09/2025 19:18:54"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -3999999,
+                "date": "16/09/2025 20:52:58"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-16T12:18:25.829Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-16T12:18:54.738Z",
+        "loanCooldown": null
+    },
+    "61551832888667": {
+        "balance": 79988998872890370,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 16:48:09"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999999999999,
+                "date": "26/09/2025 16:48:19"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 9000000000000000,
+                "date": "26/09/2025 17:08:35"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "26/09/2025 17:09:05"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 999999979890369,
+                "date": "26/09/2025 17:11:15"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "26/09/2025 19:08:11"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -100000000,
+                "date": "26/09/2025 19:10:33"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -10000000,
+                "date": "26/09/2025 19:12:54"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -9999999999999,
+                "date": "26/09/2025 19:24:13"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -999999999999999,
+                "date": "26/09/2025 19:27:02"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -999999999999,
+                "date": "26/09/2025 19:29:24"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -999999999,
+                "date": "26/09/2025 21:59:36"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "27/09/2025 11:46:56"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "27/09/2025 11:47:12"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "27/09/2025 11:47:48"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "27/09/2025 11:47:58"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 10000000000000000,
+                "date": "27/09/2025 11:48:15"
+            }
+        ],
+        "depositCount": 5,
+        "lastDepositReset": "2025-09-27T04:46:56.367Z",
+        "loanCount": 0,
+        "lastLoanReset": null,
+        "loanCooldown": null
+    },
+    "100092662205163": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T15:00:51.304Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 19:13:34"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 9.199283884848298e+25,
+                "totalDebt": 1.361494014957548e+26,
+                "date": "26/09/2025 19:13:45"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -2.9838484884838828e+23,
+                "date": "26/09/2025 19:14:04"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -9.16944539996346e+25,
+                "date": "26/09/2025 22:00:51"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T12:13:34.609Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T12:13:45.907Z",
+        "loanCooldown": null
+    },
+    "61564783977956": {
+        "balance": 3000000,
+        "debt": 1509599999997,
+        "status": "active",
+        "loanTime": "2025-09-26T13:55:50.215Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T13:56:52.707Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 20:42:33"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 999999999999,
+                "totalDebt": 1479999999998,
+                "date": "26/09/2025 20:55:50"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -999999999999,
+                "date": "26/09/2025 20:56:52"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T13:42:33.421Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T13:55:50.215Z",
+        "loanCooldown": null
+    },
+    "61580914120996": {
+        "balance": 100000000000050,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T14:05:59.827Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 20:55:43"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1.0929292929292293e+29,
+                "totalDebt": 1.6175353535352593e+29,
+                "date": "26/09/2025 20:59:28"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0110192992292994e+23,
+                "date": "26/09/2025 21:00:15"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0191929292828283e+21,
+                "date": "26/09/2025 21:00:34"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1092727383838,
+                "date": "26/09/2025 21:01:51"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -101029292828292920000,
+                "date": "26/09/2025 21:02:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0101919282827262e+25,
+                "date": "26/09/2025 21:02:12"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.0192727833629624e+25,
+                "date": "26/09/2025 21:02:36"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1.9277228822928282e+25,
+                "date": "26/09/2025 21:02:56"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1000,
+                "date": "26/09/2025 21:05:07"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -1.0925325519483141e+29,
+                "date": "26/09/2025 21:05:59"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 50,
+                "date": "26/09/2025 21:06:21"
+            },
+            {
+                "type": "NẠP TIỀN",
+                "amount": 100000000000000,
+                "date": "26/09/2025 21:07:09"
+            }
+        ],
+        "depositCount": 2,
+        "lastDepositReset": "2025-09-26T14:06:21.555Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T13:59:28.370Z",
+        "loanCooldown": null
+    },
+    "61575925847434": {
+        "balance": 0,
+        "debt": 0,
+        "status": "active",
+        "loanTime": null,
+        "lastDepositInterest": null,
+        "lastLoanInterest": "2025-09-26T14:05:39.284Z",
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 20:59:17"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 3.9388292919292094e+44,
+                "totalDebt": 5.82946735205523e+44,
+                "date": "26/09/2025 20:59:28"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3.9388292919292094e+34,
+                "date": "26/09/2025 20:59:54"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3.938829291535327e+43,
+                "date": "26/09/2025 21:01:39"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -3e+44,
+                "date": "26/09/2025 21:02:17"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -5.449463623817942e+42,
+                "date": "26/09/2025 21:03:25"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4.904517261436147e+42,
+                "date": "26/09/2025 21:04:03"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -4.414065535292532e+33,
+                "date": "26/09/2025 21:04:31"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+22,
+                "date": "26/09/2025 21:04:42"
+            },
+            {
+                "type": "PHẠT QUÁ HẠN",
+                "amount": -4.414065534851126e+43,
+                "date": "26/09/2025 21:05:39"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T13:59:17.242Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T13:59:28.622Z",
+        "loanCooldown": null
+    },
+    "61558469905283": {
+        "balance": 8.999999999999999e+124,
+        "debt": 1.4799999999999998e+125,
+        "status": "active",
+        "loanTime": "2025-09-26T14:19:57.271Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 21:19:26"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": 1e+125,
+                "totalDebt": 1.4799999999999998e+125,
+                "date": "26/09/2025 21:19:57"
+            },
+            {
+                "type": "RÚT TIỀN",
+                "amount": -1e+124,
+                "date": "26/09/2025 21:20:19"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T14:19:26.010Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T14:19:57.271Z",
+        "loanCooldown": null
+    },
+    "61577992707573": {
+        "balance": null,
+        "debt": null,
+        "status": "active",
+        "loanTime": "2025-09-26T15:06:10.061Z",
+        "lastDepositInterest": null,
+        "lastLoanInterest": null,
+        "transactions": [
+            {
+                "type": "MỞ TK",
+                "amount": 3000000,
+                "date": "26/09/2025 22:05:28"
+            },
+            {
+                "type": "VAY TIỀN",
+                "amount": null,
+                "totalDebt": null,
+                "date": "26/09/2025 22:06:10"
+            }
+        ],
+        "depositCount": 0,
+        "lastDepositReset": "2025-09-26T15:05:28.065Z",
+        "loanCount": 1,
+        "lastLoanReset": "2025-09-26T15:06:10.061Z",
+        "loanCooldown": null
+    }
+}

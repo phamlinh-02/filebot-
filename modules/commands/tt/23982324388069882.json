@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100081334188726",
+            "count": 14
+        },
+        {
+            "id": "61579798498628",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "100081334188726",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100081334188726",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

@@ -1,0 +1,155 @@
+{
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "rst-ai",
+    "notiGroup": false,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "facebookAccount": {
+        "email": "caubemekeo281105@hotmail.com",
+        "password": "Quang@2005",
+        "2FA": "MBCG ZPPD N5G4 A466 Q5RO KQZT XXM5 27DP"
+    },
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoRestart": 3600000,
+    "UPTIME": 8724188.91791798,
+    "ACCESSTOKEN": "EAAD6V7os0gcBPUL0qhBWe7um9NVUndi0YZCsG7Il8m5YZA1fuJpWoL6oaREXxFMYO35lCt3dtZCqZA1X4R14wwRj8lmJxBG9jffT0zQElRg0OOtvCr4FOsAamJIg8SqzPEqzjP0AkMNNCEC2OZBZCV7ZB2zjes9F0bueT0mV9g8l6gybE9BTgZB5oZCDqEMTfMeZAxJwZDZD",
+    "FACEBOOK_ADMIN": "fb.com",
+    "ZALO_ADMIN": "",
+    "ADMIN_NAME": "bích thuận",
+    "BOTNAME": "Hello Kitty🦋",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100077056726311",
+        "61577978739307"
+    ],
+    "NDH": [
+        "100077056726311"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "Theme": "red",
+        "Admin": "RST-AI",
+        "Setup": {
+            "Theme": "Bạn có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif"
+        ]
+    },
+    "version": "3.5.0",
+    "iconUnsend": {
+        "status": true,
+        "icon": "👍"
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200000
+    },
+    "fbvideo": {
+        "API_KEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "leave": {
+        "status": false,
+        "number": 2
+    },
+    "adminOnly": false,
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "cave": {
+        "cooldownTime": 1200000
+    },
+    "spamping": {
+        "spamDelay": 2
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "cuop": {
+        "cooldownTime": 600000
+    },
+    "help": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 300
+        }
+    },
+    "spam": {
+        "spamDelay": 2
+    }
+}

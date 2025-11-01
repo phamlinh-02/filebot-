@@ -1,0 +1,70 @@
+{
+    "leave": [
+        {
+            "threadID": "9425998654196354",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "23977105915228474",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "9519066418221927",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "26444052791907409",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "9530103570432191",
+            "status": false,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "25913166924997476",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "23931660546523951",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "8694189060675762",
+            "status": false,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "9828183987270118",
+            "status": true,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "9326005450832946",
+            "status": false,
+            "message": "",
+            "media": ""
+        },
+        {
+            "threadID": "24187291290957697",
+            "status": true,
+            "message": "",
+            "media": ""
+        }
+    ]
+}

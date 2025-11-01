@@ -1,0 +1,42 @@
+[
+    {
+        "threadID": "7092446410789510",
+        "shortcuts": [
+            {
+                "id": "CkrlFWcrrs.png",
+                "output": "Tag con cặc",
+                "uri": "https://i.imgur.com/otFu408.jpeg",
+                "input_type": "tag",
+                "tag_id": "100055154154050"
+            }
+        ]
+    },
+    {
+        "threadID": "7202849343175318",
+        "shortcuts": [
+            {
+                "id": "rAuwyrzofl.png",
+                "output": "Tag con cặc {name}",
+                "uri": "https://i.imgur.com/2I0WTN3.jpeg",
+                "input_type": "tag",
+                "tag_id": "100055154154050"
+            }
+        ]
+    },
+    {
+        "threadID": "8080063438679515",
+        "shortcuts": [
+            {
+                "id": "wrDrmWFzDr.png",
+                "input": "Hi tvm",
+                "output": "『𝐓𝐊𝐆』●",
+                "uri": "https://i.imgur.com/SLJEaa0.jpeg"
+            },
+            {
+                "id": "Kozywsk1ym",
+                "input": "chào tvm, bạn vui lòng giới thiệu bản thân và show ảnh acc game + ảnh cá nhân nếu có thể (nhớ set biệt danh kèm kí tự box \n  \n『𝐓𝐊𝐆』●",
+                "output": "hi tvm"
+            }
+        ]
+    }
+]

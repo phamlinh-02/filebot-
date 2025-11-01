@@ -1,0 +1,92 @@
+{
+  "name": "ytdl-core-enhanced",
+  "description": "Production-ready YouTube downloader with enhanced authentication system. Features 100% error-free codebase, September 2025 YouTube compatibility, advanced cookie management, auto browser authentication (Chrome/Edge/Firefox), multi-threading optimization, and comprehensive reliability improvements.",
+  "keywords": [
+    "youtube",
+    "video",
+    "download",
+    "ytdl",
+    "ytdl-core",
+    "authentication",
+    "multithreading",
+    "anti-bot",
+    "fast",
+    "enhanced",
+    "typescript",
+    "hls",
+    "m3u8",
+    "downloader",
+    "stream",
+    "audio",
+    "mp3",
+    "mp4",
+    "performance",
+    "2025",
+    "production-ready",
+    "error-free",
+    "reliable",
+    "security",
+    "modern"
+  ],
+  "version": "1.4.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tieubao9k/ytdl-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tieubao9k/ytdl-core/issues"
+  },
+  "homepage": "https://github.com/tieubao9k/ytdl-core#readme",
+  "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
+  "contributors": [
+    "Satoru FX (https://github.com/tieubao9k) - v1.4.1 Silent Mode + Enhanced Authentication + Cookie Format Fix",
+    "Tobias Kutscha (https://github.com/TimeForANinja)",
+    "Andrew Kelley (https://github.com/andrewrk)",
+    "Mauricio Allende (https://github.com/mallendeo)",
+    "Rodrigo Altamirano (https://github.com/raltamirano)",
+    "Jim Buck (https://github.com/JimmyBoh)",
+    "Paweł Ruciński (https://github.com/Roki100)",
+    "Alexander Paolini (https://github.com/Million900o)"
+  ],
+  "main": "./lib/index.js",
+  "types": "./typings/index.d.ts",
+  "files": [
+    "lib",
+    "typings"
+  ],
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text-summary npm run test:unit",
+    "test:unit": "mocha --ignore test/irl-test.js test/*-test.js --timeout 4000",
+    "test:irl": "mocha --timeout 16000 test/irl-test.js",
+    "lint": "eslint ./",
+    "lint:fix": "eslint --fix ./",
+    "lint:typings": "tslint typings/index.d.ts",
+    "lint:typings:fix": "tslint --fix typings/index.d.ts"
+  },
+  "dependencies": {
+    "http-cookie-agent": "^6.0.8",
+    "https-proxy-agent": "^7.0.6",
+    "m3u8stream": "^0.8.6",
+    "miniget": "^4.2.3",
+    "sax": "^1.4.1",
+    "tough-cookie": "^4.1.4",
+    "undici": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.0",
+    "assert-diff": "^3.0.1",
+    "dtslint": "^3.6.14",
+    "eslint": "^6.8.0",
+    "mocha": "^7.0.0",
+    "muk-require": "^1.2.0",
+    "nock": "^13.0.4",
+    "nyc": "^15.0.0",
+    "sinon": "^9.0.0",
+    "stream-equal": "~1.1.0",
+    "typescript": "^3.9.7"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "license": "MIT"
+}

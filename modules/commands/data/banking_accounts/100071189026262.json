@@ -1,0 +1,31 @@
+{
+    "account_number": "326099",
+    "uid": "100071189026262",
+    "balance": "0",
+    "created_at": 1728878877860,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100071189026262",
+            "time": 1728878928078
+        },
+        {
+            "type": "repay",
+            "amount": "10000000",
+            "author": "100071189026262",
+            "time": 1728879149044
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1728965328434,
+        "debt": 1728882528434
+    },
+    "pass": "2461"
+}

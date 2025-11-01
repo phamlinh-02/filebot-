@@ -1,0 +1,107 @@
+{
+    "total": [
+        {
+            "id": "100083052397428",
+            "count": 30
+        },
+        {
+            "id": "61560457063087",
+            "count": 80
+        },
+        {
+            "id": "61554620715942",
+            "count": 40
+        },
+        {
+            "id": "61579798498628",
+            "count": 0
+        },
+        {
+            "id": "100081016996783",
+            "count": 0
+        },
+        {
+            "id": "61554043870736",
+            "count": 0
+        },
+        {
+            "id": "61581395106225",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100083052397428",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560457063087",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61554620715942",
+            "count": 0,
+            "name": "Dang Danh"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081016996783",
+            "count": 0,
+            "name": "Thanh Thảo"
+        },
+        {
+            "id": "61554043870736",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61581395106225",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100083052397428",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560457063087",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61554620715942",
+            "count": 0,
+            "name": "Dang Danh"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081016996783",
+            "count": 0,
+            "name": "Thanh Thảo"
+        },
+        {
+            "id": "61554043870736",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61581395106225",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

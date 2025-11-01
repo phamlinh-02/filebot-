@@ -1,0 +1,345 @@
+{
+    "total": [
+        {
+            "id": "61557876557356",
+            "count": 22
+        },
+        {
+            "id": "100084707482541",
+            "count": 37
+        },
+        {
+            "id": "100077366272669",
+            "count": 90
+        },
+        {
+            "id": "100071139513918",
+            "count": 0
+        },
+        {
+            "id": "100027257449980",
+            "count": 0
+        },
+        {
+            "id": "61553950619085",
+            "count": 0
+        },
+        {
+            "id": "61554620715942",
+            "count": 50
+        },
+        {
+            "id": "100004135504561",
+            "count": 0
+        },
+        {
+            "id": "61567528023131",
+            "count": 0
+        },
+        {
+            "id": "61560008797671",
+            "count": 0
+        },
+        {
+            "id": "100073841055532",
+            "count": 42
+        },
+        {
+            "id": "100055937594126",
+            "count": 53
+        },
+        {
+            "id": "61579798498628",
+            "count": 0
+        },
+        {
+            "id": "61579845487117",
+            "count": 0
+        },
+        {
+            "id": "100028513672389",
+            "count": 1
+        },
+        {
+            "id": "61559900873302",
+            "count": 0
+        },
+        {
+            "id": "61580340099463",
+            "count": 0
+        },
+        {
+            "id": "61580695133415",
+            "count": 0
+        },
+        {
+            "id": "61580302021000",
+            "count": 0
+        },
+        {
+            "id": "61560461381108",
+            "count": 0
+        },
+        {
+            "id": "100001806840238",
+            "count": 0
+        },
+        {
+            "id": "100085078547511",
+            "count": 0
+        },
+        {
+            "id": "61569432676113",
+            "count": 4
+        },
+        {
+            "id": "100081016996783",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "61557876557356",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084707482541",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100077366272669",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100071139513918",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100027257449980",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61553950619085",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61554620715942",
+            "count": 0,
+            "name": "Dang Danh"
+        },
+        {
+            "id": "100004135504561",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61567528023131",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560008797671",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073841055532",
+            "count": 0,
+            "name": "Pham Hieu"
+        },
+        {
+            "id": "100055937594126",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579845487117",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100028513672389",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61559900873302",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580340099463",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580695133415",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580302021000",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560461381108",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100001806840238",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085078547511",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61569432676113",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081016996783",
+            "count": 0,
+            "name": "Thanh Thảo"
+        }
+    ],
+    "day": [
+        {
+            "id": "61557876557356",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084707482541",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100077366272669",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100071139513918",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100027257449980",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61553950619085",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61554620715942",
+            "count": 0,
+            "name": "Dang Danh"
+        },
+        {
+            "id": "100004135504561",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61567528023131",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560008797671",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100073841055532",
+            "count": 0,
+            "name": "Pham Hieu"
+        },
+        {
+            "id": "100055937594126",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579798498628",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61579845487117",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100028513672389",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61559900873302",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580340099463",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580695133415",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61580302021000",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61560461381108",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100001806840238",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100085078547511",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61569432676113",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100081016996783",
+            "count": 0,
+            "name": "Thanh Thảo"
+        }
+    ],
+    "time": 3
+}

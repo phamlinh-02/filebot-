@@ -1,0 +1,35 @@
+{
+    "account_number": "934309",
+    "uid": "61560095392964",
+    "balance": "8080000",
+    "created_at": 1729769508164,
+    "debt": "48160351",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "2000000",
+            "author": "61560095392964",
+            "time": 1729769586868
+        },
+        {
+            "type": "borrow",
+            "amount": "6000000",
+            "author": "61560095392964",
+            "time": 1729781638322
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1753900482060,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1729942388238,
+        "debt": 1729945098771
+    },
+    "pass": "9119",
+    "timestamp_due_repay": 1729942386868
+}
