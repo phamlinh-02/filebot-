@@ -16,17 +16,16 @@
     "autoRestart": 3600000,
     "UPTIME": 8724188.91791798,
     "ACCESSTOKEN": "EAAD6V7os0gcBPUL0qhBWe7um9NVUndi0YZCsG7Il8m5YZA1fuJpWoL6oaREXxFMYO35lCt3dtZCqZA1X4R14wwRj8lmJxBG9jffT0zQElRg0OOtvCr4FOsAamJIg8SqzPEqzjP0AkMNNCEC2OZBZCV7ZB2zjes9F0bueT0mV9g8l6gybE9BTgZB5oZCDqEMTfMeZAxJwZDZD",
-    "FACEBOOK_ADMIN": "fb.com",
+    "FACEBOOK_ADMIN": "facebook.com",
     "ZALO_ADMIN": "",
-    "ADMIN_NAME": "bích thuận",
+    "ADMIN_NAME": "Thùy Linh",
     "BOTNAME": "Hello Kitty🦋",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100077056726311",
         "61577978739307"
     ],
     "NDH": [
-        "100077056726311"
+        "61577978739307"
     ],
     "DATABASE": {
         "sqlite": {
